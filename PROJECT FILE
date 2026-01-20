@@ -1,9 +1,1 @@
-Retail Sales Data Analysis Project
 
-This project focuses on analyzing retail sales data combined with customer demographic information to uncover key sales trends, purchasing behavior, and product performance insights. Microsoft Excel was used as the primary analytical tool to process and interpret the data effectively.
-
-Pivot Tables were applied to summarize sales performance across product categories, gender, and age groups, enabling clear comparison and segmentation analysis. Interactive dashboards were created using charts, slicers, and filters to visualize total sales, quantity sold, and revenue distribution, making insights easy to explore and understand.
-
-The analysis revealed that Electronics and Clothing generate the highest total sales, indicating strong customer demand in these categories, while Beauty products contribute comparatively lower revenue. However, the quantity sold across categories remains fairly balanced, with Clothing and Electronics each accounting for approximately 34% of total units sold and Beauty contributing around 32%. This suggests diverse customer preferences and consistent purchasing behavior across categories despite differences in sales value.
-
-Overall, this project enhanced practical skills in data analysis, dashboard creation, data visualization, and business insight generation, demonstrating how raw data can be transformed into meaningful insights to support strategic decision-making.
